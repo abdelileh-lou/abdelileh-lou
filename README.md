@@ -2,9 +2,8 @@
   <img src="https://komarev.com/ghpvc/?username=abdelileh&label=Profile%20views&color=0e75b6&style=flat" alt="louhichi abdelileh" />
 </p>
 
-
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+abdelileh+louhichi!;Frontend+Developer;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+abdelileh+louhichi!;Frontend+Developer;" />
 </h1>
 
 <img src='https://camo.githubusercontent.com/6f7b76611449b965092aee7c4bf135e656f4e9416189c0b84020fd9853cd1f93/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f54456e586b637348725034596564436868412f67697068792e676966' align='right' width='25%'>
@@ -14,14 +13,17 @@
 - **HTML5**: Semantic markup, accessibility, and modern HTML techniques.
 - **CSS3**: Responsive design, Flexbox, Grid, animations, and pre-processors.
 - **JavaScript**: ES6+, DOM manipulation, AJAX, and working with APIs.
-- **Frameworks & Libraries**: React.js (i'm learning it now)
-- **Tools**: Git
+- **React.js**: Building user interfaces with components and state.
+- **Spring Boot**: Java-based backend framework for RESTful APIs.
+- **Spring Security**: Authentication and authorization framework for Java apps.
+- **Tools**: Git, VS Code, GitHub
 - **Design**: Basic knowledge of design principles, Photoshop, Illustrator, and Figma.
 
-
 ## <img src='https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif' width='30px'> Currently Learning
-- **React**: Building dynamic single-page applications.
-- **Tailwind CSS**: Utility-first CSS framework for rapid UI development.
+
+- **Cloud Computing**: Infrastructure, platforms, and services for scalable computing.
+- **Machine Learning**: Basics of supervised learning, model training, and data analysis.
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://www.facebook.com/zaki.louis.792" target="blank">
@@ -39,7 +41,7 @@ ___
 
 <h3 align="center">Languages and Tools:</h3>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,javascript,java,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,javascript,java,spring,bootstrap" />
     <img src="https://skillicons.dev/icons?i=vscode,github,figma,git,markdown,npm" />
 </div>
 <br>
@@ -60,14 +62,11 @@ ___
 <h2 align='center'>Stats</h2>
 <br>
 
-  <!--[![GitHub Streak](https://streak-stats.demolab.com/?user=raoufboukh&theme=react)](https://git.io/streak-stats)
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raoufboukh&theme=react&show_icons=true)-->
-
 <div align='center'>
   <img width='390px' src='https://streak-stats.demolab.com/?user=abdelileh&theme=react&border_radius=10'>
   <img width='390px' src='https://github-readme-stats.vercel.app/api?username=abdelileh&theme=react&show_icons=true&border_radius=10'>  
 </div>
-  <br/>
+<br/>
 
 <!--
 **abdelileh/abdelileh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
